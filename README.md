@@ -24,6 +24,13 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 git clone git://github.com/paullewis/CSP-Validator.git
 ```
 
+Or on Windows:
+
+```
+cd c:\users\YOUR_ACCOUNT\AppData\Roaming\Sublime Text 2\Packages
+git clone git://github.com/paullewis/CSP-Validator.git
+```
+
 _Please note: this is only an alpha release. Once all the issues are ironed out I'll request
 to be added to Package Control._
 

@@ -73,7 +73,7 @@ class CSPValidator():
 
         # Matches on on{event}
         CSPRule(
-            "<.*?\son[^>]*?>",
+            "<.*?\son.*?=",
             "Event handlers should be added from an external src file"
         ),
 
